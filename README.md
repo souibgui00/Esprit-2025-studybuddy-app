@@ -84,12 +84,6 @@ Built visually with **FlutterFlow** and backed by **Firebase** for authenticatio
 
 ---
 
-## 🚀 Live Demo
-
-> 🔗 *Add your FlutterFlow Run/Test Mode link here once you have a stable one, e.g.:*
-> `https://app.flutterflow.io/your-project-id`
-
----
 
 ## 📝 Notes
 
